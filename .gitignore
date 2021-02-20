@@ -1,0 +1,9 @@
+node_modules
+*.exe
+yarn-error.log
+yarn.lock
+template.config.js
+.templates
+dist
+.env
+release

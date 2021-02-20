@@ -1,0 +1,16 @@
+{
+	"extends": "../../tsconfig.json",
+
+	"compilerOptions": {
+		"target": "ES6",
+		"module": "CommonJS",
+		// "outFile": "./bundle.js",
+		"baseUrl": ".",
+		"outDir": "../../dist/server",
+		"moduleResolution": "node",
+		"strict": true,
+		"esModuleInterop": true,
+		"inlineSourceMap": true,
+		"inlineSources": true
+	}
+}
