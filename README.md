@@ -1,6 +1,6 @@
-# Mini Website ☕
+# Mini Local Server ☕
 
-Electron's cousin 😉
+Electron's cousin 
 
 ## Install
 
